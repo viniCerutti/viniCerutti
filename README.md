@@ -7,11 +7,11 @@ Atualmente trabalha nas lojas renner S.A na aliança OMNI auxiliando a área de 
 
 Possui interesse nas áreas de: aprendizado de máquina, algoritmos, big data e ciência de dados.
 
-**Links:**
-
-* [Linkedin](https://www.linkedin.com/in/vinicius-duzac-cerutti/)
-* [Lattes](http://lattes.cnpq.br/8376795405312044)
-* [Kaggle](https://www.kaggle.com/ceruttivini)
+<div> 
+  <a href="https://www.linkedin.com/in/vinicius-duzac-cerutti/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.kaggle.com/ceruttivini" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
+  <a href="http://lattes.cnpq.br/8376795405312044" target="_blank"><img src="https://www.institutoinvest.edu.br/assets/img/lattes.png" target="_blank" width = '106' height = '28'></a>
+</div>
 
 ## Projetos:
 * **Recommender Systems for Article Comments:** [Análise no Kaggle](https://www.kaggle.com/code/ceruttivini/recommender-systems-for-article-comments)
