@@ -3,7 +3,7 @@
 ## About Me:
 A curious young man who enjoys solving problems and taking ideas off paper and programming. Has experience with scientific method, software development and data analysis in HR (People Analytics) and retail . 
 
-He currently works at Renner S.A. stores in the OMNI alliance, helping the business area to make decisions through data. Using scientific methods, exploratory analysis, data visualization and extraction using tools such as Python, R and databricks.
+He currently works at  Renner S.A. company in the OMNI alliance, helping the business area to make decisions through data. Using scientific methods, exploratory analysis, data visualization and extraction using tools such as Python, R and databricks.
 
 He has interest in the areas of: machine learning, algorithms, big data and data science.
 
