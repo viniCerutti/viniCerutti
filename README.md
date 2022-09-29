@@ -1,11 +1,11 @@
 ### Hello World :earth_americas:!
 
 ## About Me:
-A curious young man who enjoys solving problems and taking ideas off paper and programming. Has experience with scientific method, software development and data analysis in HR (People Analytics) and retail . 
+I enjoy solving problems and taking ideas off paper and programming. I have experience with scientific method, software development and data analysis in HR (People Analytics) and retail. 
 
-He currently works at  Renner S.A. company in the OMNI alliance, helping the business area to make decisions through data. Using scientific methods, exploratory analysis, data visualization and extraction using tools such as Python, R and databricks.
+I currently work at Renner S.A. in the OMNI alliance, helping the business area to make decisions through data. Using scientific methods, exploratory analysis, data visualization and extraction using tools such as Python, R and databases.
 
-He has interest in the areas of: machine learning, algorithms, big data and data science.
+I am interested in the areas of: machine learning, algorithms, big data and data science.
 
 <div> 
   <a href="https://www.linkedin.com/in/vinicius-duzac-cerutti/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
